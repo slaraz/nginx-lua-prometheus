@@ -1,0 +1,1 @@
+docker run --rm --name nginx-lua-prometheus -it -p 9145:9145 nginx-lua-prometheus
