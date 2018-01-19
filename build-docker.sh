@@ -1,1 +1,1 @@
-docker build -t nginx-lua-prometheus .
+docker build -t slawekraz/nginx-lua-prometheus:1.13 .
