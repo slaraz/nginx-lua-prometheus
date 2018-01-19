@@ -1,1 +1,1 @@
-docker run --rm --name nginx-lua-prometheus -it -p 9145:9145 slawekraz/nginx-lua-prometheus bash
+docker run --rm --name nginx-lua-prometheus -it -p 9145:9145 slawekraz/nginx-lua-prometheus
